@@ -33,3 +33,5 @@ The only two features that have not been converted with PCA are Time and Amount.
 #### Amount and Time
 ![e535217f-46f2-4101-bfc9-1a3905663909](https://github.com/Su64gi/Credit-Card-Fraud-Detection-/assets/155756162/ddeabadc-5071-42ba-9c66-77e7c54f4011)
 
+#### Training score and cross validation score
+
