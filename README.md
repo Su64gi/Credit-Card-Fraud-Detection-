@@ -34,4 +34,8 @@ The only two features that have not been converted with PCA are Time and Amount.
 ![e535217f-46f2-4101-bfc9-1a3905663909](https://github.com/Su64gi/Credit-Card-Fraud-Detection-/assets/155756162/ddeabadc-5071-42ba-9c66-77e7c54f4011)
 
 #### Training set and validation set
+![9101820 (2)](https://github.com/Su64gi/Credit-Card-Fraud-Detection-/assets/155756162/263b1c7c-ebf8-411d-bcac-774bbbfbf6f1)
 
+#### precision-recall curve
+
+![6e452621-6def-48fd-9e90-c9884181c452](https://github.com/Su64gi/Credit-Card-Fraud-Detection-/assets/155756162/73fa512a-6934-4fc3-8def-08f4578842aa)
